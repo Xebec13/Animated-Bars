@@ -1,1 +1,1 @@
-My animated Nav Bars Side Bar LAyout and Background
+My animated Nav Bars Side Bar Layout and Background
