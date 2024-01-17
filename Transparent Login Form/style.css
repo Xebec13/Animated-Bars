@@ -108,5 +108,5 @@ body {
 }
 .login-button:hover,
 .login-button:focus {
-background-color: hsl(var(--primary-hsl));
+background-color: hsl(var(--primary-hsl), .4);
 }
