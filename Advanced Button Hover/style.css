@@ -14,6 +14,7 @@ body {
 
 button {
   margin: 1rem;
+  font-size: 30px;
 }
 
 .btn {
@@ -26,7 +27,7 @@ button {
   cursor: pointer;
 
   --background-color: #e3e3e3;
-  --border-size: 2px;
+  --border-size: 6px;
   --accent-color: crimson;
 }
 
@@ -38,7 +39,7 @@ button {
   right: 0;
   bottom: 0;
   z-index: -1;
-  border: var(--border-size) solid var(--background-color);
+  border: var(--border-size) solid var(--accent-color);
   transition: top, left, right, bottom, 100ms ease-in-out;
 }
 .btn.btn-border-pop:hover::before,
