@@ -13,7 +13,7 @@ body {
 }
 
 .emoji {
-    --emoji-size: 400px;
+    --emoji-size: 300px;
     margin: 1rem;
     width: var(--emoji-size);
     height: var(--emoji-size);
